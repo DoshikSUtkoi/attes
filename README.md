@@ -1,8 +1,8 @@
-# Название проекта
+# 
 
 **Автор:** Петрушенко
 **Вариант:** 
-**Дата сдачи:** 15.05.2026
+**Дата сдачи:** 04.05.2026
 
 ---
 
@@ -26,6 +26,6 @@
 ## Как запустить
 
 ```bash
-git clone https://github.com/твой-логин/weather-diary.git
+git clone https://github.com/log/weather-diary.git
 cd weather-diary
-python main.py
+
